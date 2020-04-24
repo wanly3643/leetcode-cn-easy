@@ -5,7 +5,7 @@
  */
 
 public class TwoSum {
-    static class Solution {
+    private static class Solution {
         public int[] twoSum(int[] nums, int target) {
             int expect;
             int nums_length = nums.length;
