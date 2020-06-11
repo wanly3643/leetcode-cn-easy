@@ -1,3 +1,5 @@
+package string;
+
 public class ReverseInteger {
     private static class Solution {
         public int reverse(int x) {

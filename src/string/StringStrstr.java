@@ -1,3 +1,5 @@
+package string;
+
 /**
  * 实现 strStr() 函数。
  *

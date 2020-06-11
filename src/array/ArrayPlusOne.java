@@ -1,3 +1,5 @@
+package array;
+
 public class ArrayPlusOne {
     private static class Solution {
         public int[] plusOne(int[] digits) {

@@ -1,3 +1,5 @@
+package array;
+
 public class ArrayMaxProfit {
     private static class Solution {
         public int maxProfit(int[] prices) {
