@@ -23,7 +23,7 @@ public class TreeNodeUtils {
             int rIndex = 2 * index + 2;
             if (rIndex < list.length && list[rIndex] != null) {
                 TreeNode node = new TreeNode(list[rIndex]);
-                parent.left = node;
+                parent.right = node;
                 createChildren(node, list, rIndex);
             }
         }
